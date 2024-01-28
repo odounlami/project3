@@ -12,7 +12,7 @@ class ResultScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Exemple de reconnaissance de texte'),
+        title: const Text('Reconnaissance de texte'),
       ),
       body: Container(
         padding: const EdgeInsets.all(30.0),
